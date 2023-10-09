@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Oct 03, 2023 at 02:03 AM
+-- Generation Time: Oct 09, 2023 at 01:40 AM
 -- Server version: 5.7.39
 -- PHP Version: 8.2.0
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `prakweb2023b_213040107`
+-- Database: `prakweb_2023_b_213040107`
 --
 
 -- --------------------------------------------------------
